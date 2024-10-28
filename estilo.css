@@ -22,6 +22,18 @@
  margin-left: 50px;
 }
 
+.logo1 {
+  width: 100px;
+  margin-left: 10px;
+ }
+
+ .logo2 {
+  width: 16px;
+  margin-left: 30px;
+  margin-bottom: 38px;
+ }
+ 
+
 .menu {
   padding: 20px;
 }
